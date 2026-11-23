@@ -77,19 +77,15 @@ My work sits where **data meets automation**: I build the reporting systems, das
 
 ---
 
-<!-- FEATURED PROJECTS: hidden until your first project repository exists (Step 6).
-
 ### 🚀 Featured projects
 
 | Project | What it does | Tools |
 |---|---|---|
-| [Sales Performance Dashboard](https://github.com/sumitkryadav-automation/sales-performance-dashboard) | Branch, salesperson and HOD KPIs in one live view | Google Sheets · Looker Studio |
-| [Excel VBA Reporting Automation](https://github.com/sumitkryadav-automation/excel-vba-report-automation) | One-click multi-sheet refresh that removes manual data entry | Excel · VBA |
-| [Inventory Reorder Point Model](https://github.com/sumitkryadav-automation/inventory-reorder-point-analysis) | Reorder points from sales velocity, transit stock and lead time | Excel · SQL |
-| [Automated Incentive Emails](https://github.com/sumitkryadav-automation/apps-script-incentive-emails) | Sends personalised performance updates automatically | Apps Script · Gmail |
+| [📱 Huawei Smartphone Sales Dashboard](https://github.com/sumitkryadav-automation/huawei-sales-powerbi-dashboard) | Interactive dashboard analysing ₹769M of sample sales across 19 Indian cities and 15 models, by city, model, month, payment method and rating | Power BI · Power Query · DAX |
+
+<!-- Add a new row above this line for each new project, in the same format. -->
 
 ---
--->
 
 ### 📫 Let's connect
 
