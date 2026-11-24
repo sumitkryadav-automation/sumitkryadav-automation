@@ -1,46 +1,43 @@
 <h1 align="center">Hi, I'm Sumit Kumar Yadav 👋</h1>
-
+ 
 <h3 align="center">MIS &amp; Data Analyst · I turn manual reporting into automated dashboards, systems and web apps</h3>
-
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumitkryadav-automation"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sumitkryadav882@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="./Sumit_Kumar_Yadav_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
 </p>
-
 ---
-
+ 
 ### 📊 About me
-
+ 
 I'm a **Senior MIS Executive and Data Analyst** based in **New Delhi**, leading a data team with **2+ years of experience** across building materials, education, dental e-commerce and jewellery.
-
+ 
 My work sits where **data meets automation**: I build the reporting systems, dashboards and internal tools that sales, finance, supply chain and operations teams use every day.
-
+ 
 - 🔁 Replaced **~20 separate Google Sheets, Forms and Looker Studio reports** with a single order-punching web app
 - ⚙️ Built a **VBA-automated Excel workbook** that cut manual data entry by **about 80%**
 - 📈 Built sales and performance dashboards for warehouse, branch, salesperson and leadership reviews
 - 🚀 Build and deploy Node.js web apps and live dashboards on **Vercel**, version-controlled with **Git & GitHub**
 - 🤖 Use AI tools (Claude, ChatGPT, Copilot, Gemini, NotebookLM) to speed up analysis, scripting and documentation
 <!-- - 🌱 Currently learning: ADD ONLY WHAT YOU ARE GENUINELY LEARNING, then delete the comment markers -->
-
+ 
 ---
-
+ 
 ### 🛠️ Tools I work with
-
+ 
 **📊 BI & Dashboards**
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio">
   <img src="https://img.shields.io/badge/Zoho_Analytics-E42527?style=flat-square&logo=zoho&logoColor=white" alt="Zoho Analytics">
 </p>
-
 **🗄️ Data & Modelling**
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" alt="Power Query">
   <img src="https://img.shields.io/badge/Data_Modelling-0F6CBD?style=flat-square" alt="Data Modelling">
 </p>
-
 **📑 Spreadsheets & Automation**
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
@@ -48,7 +45,6 @@ My work sits where **data meets automation**: I build the reporting systems, das
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Apps Script">
 </p>
-
 **🌐 Web Apps & Deployment**
 <p>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -57,7 +53,6 @@ My work sits where **data meets automation**: I build the reporting systems, das
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
 </p>
-
 **🤖 AI Tools**
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
@@ -66,43 +61,56 @@ My work sits where **data meets automation**: I build the reporting systems, das
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/NotebookLM-000000?style=flat-square&logo=notebooklm&logoColor=white" alt="NotebookLM">
 </p>
-
 **🔗 CRM & Platforms**
 <p>
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot">
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
 </p>
-
 **What I do with them:** MIS reporting · Dashboard design · Data modelling · Process automation · Sales & performance tracking · Inventory & supply-chain analysis · Data cleaning · Web app deployment
-
+ 
 ---
-
+ 
 ### 🚀 Featured projects
-
+ 
+#### ⭐ YouTube Music · Top 50 Analytics: live interactive dashboard
+ 
+<p align="center">
+  <a href="https://sumitkryadav-automation.github.io/ytmusic-dashboard/"><img src="https://raw.githubusercontent.com/sumitkryadav-automation/ytmusic-dashboard/main/overview.jpg" width="820" alt="YouTube Music Top 50 Analytics dashboard"></a>
+</p>
+<p align="center">
+  <a href="https://sumitkryadav-automation.github.io/ytmusic-dashboard/"><img src="https://img.shields.io/badge/%E2%96%B6%20Open%20Live%20Dashboard-FF0033?style=for-the-badge" alt="Open live dashboard"></a>
+  <a href="https://github.com/sumitkryadav-automation/ytmusic-dashboard"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
+</p>
+<p align="center">
+  27,800 daily chart entries · 827 songs · 353 artists · slide-in filters, cross-filtering, animated charts, a <i>Now Playing</i> card and light/dark mode.<br>
+  Opens in any browser, no login needed.
+</p>
+#### More projects
+ 
 | Project | What it does | Tools |
 |---|---|---|
+| [🎵 YouTube Music Top 50 Analytics](https://github.com/sumitkryadav-automation/ytmusic-dashboard) · [**▶ Live**](https://sumitkryadav-automation.github.io/ytmusic-dashboard/) | Interactive web dashboard of 27,800 daily Top 50 chart entries: slide-in filters, cross-filtering, animated SVG charts, Now Playing card, light/dark mode | Python · HTML/CSS · JavaScript · GitHub Pages |
 | [📱 Huawei Smartphone Sales Dashboard](https://github.com/sumitkryadav-automation/huawei-sales-powerbi-dashboard) | Interactive dashboard analysing ₹769M of sample sales across 19 Indian cities and 15 models, by city, model, month, payment method and rating | Power BI · Power Query · DAX |
 | [🏋️ Gym Fitness & Membership Dashboard](https://github.com/sumitkryadav-automation/gym-fitness-powerbi-dashboard) | Gym finances and member retention by tier, with SVG rings and progress bars built in DAX and a custom dark design | Power BI · DAX · Data Modelling |
-
+ 
 <!-- Add a new row above this line for each new project, in the same format. -->
-
+ 
 ---
-
+ 
 ### 📫 Let's connect
-
+ 
 I'm open to **Data Analyst / MIS Analyst** opportunities and conversations about reporting automation.
 The fastest way to reach me is **[LinkedIn](https://www.linkedin.com/in/sumitkryadav-automation)** or **[email](mailto:sumitkryadav882@gmail.com)**.
-
+ 
 <!--
 GitHub stats: add these after 4–6 weeks of real activity, when the numbers mean something.
 Replace sumitkryadav-automation with your GitHub username.
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumitkryadav-automation&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
   <img height="160" src="https://streak-stats.demolab.com?user=sumitkryadav-automation&hide_border=true" alt="GitHub streak">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitkryadav-automation&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views">
 </p>
 -->
+ 
