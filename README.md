@@ -82,6 +82,7 @@ My work sits where **data meets automation**: I build the reporting systems, das
 | Project | What it does | Tools |
 |---|---|---|
 | [📱 Huawei Smartphone Sales Dashboard](https://github.com/sumitkryadav-automation/huawei-sales-powerbi-dashboard) | Interactive dashboard analysing ₹769M of sample sales across 19 Indian cities and 15 models, by city, model, month, payment method and rating | Power BI · Power Query · DAX |
+| [🏋️ Gym Fitness & Membership Dashboard](https://github.com/sumitkryadav-automation/gym-fitness-powerbi-dashboard) | Gym finances and member retention by tier, with SVG rings and progress bars built in DAX and a custom dark design | Power BI · DAX · Data Modelling |
 
 <!-- Add a new row above this line for each new project, in the same format. -->
 
